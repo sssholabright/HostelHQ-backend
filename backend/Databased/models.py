@@ -34,3 +34,17 @@ class Image(models.Model):
     
     def __str__(self):
         return f"{self.image}"
+
+class TourRequests(models.Model):
+    STATUS_CHOICES = [
+        ('PENDING', 'Pending'),
+        ('ACCEPTED', 'Accepted'),
+        ('DECLINED', 'Declined'),
+    ]
+    client = models.ForeignKey(UserProfile, on_delete=models.CASCADE, related_name='client_requests')
+    hostel = models.ForeignKey(AgentListing, on_delete=models.CASCADE)
+    requested_date = models.DateField(default=None, blank=True, null=True)
+    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='PENDING')
+
+    def __str__(self):
+        return f"Tour request by {self.client.email} for {self.hostel.hostelName}"

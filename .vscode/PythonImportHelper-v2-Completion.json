@@ -1,0 +1,1918 @@
+[
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "EmailValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "django.utils.timezone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.utils.timezone",
+        "description": "django.utils.timezone",
+        "detail": "django.utils.timezone",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "AbstractBaseUser",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "BaseUserManager",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "PermissionsMixin",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "timezone",
+        "importPath": "django.utils",
+        "description": "django.utils",
+        "isExtraImport": true,
+        "detail": "django.utils",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_user_model",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate",
+        "importPath": "django.contrib.auth",
+        "description": "django.contrib.auth",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "generics",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "TokenObtainPairSerializer",
+        "importPath": "rest_framework_simplejwt.serializers",
+        "description": "rest_framework_simplejwt.serializers",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "send_mail",
+        "importPath": "django.core.mail",
+        "description": "django.core.mail",
+        "isExtraImport": true,
+        "detail": "django.core.mail",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshToken",
+        "importPath": "rest_framework_simplejwt.tokens",
+        "description": "rest_framework_simplejwt.tokens",
+        "isExtraImport": true,
+        "detail": "rest_framework_simplejwt.tokens",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "rest_framework.response",
+        "description": "rest_framework.response",
+        "isExtraImport": true,
+        "detail": "rest_framework.response",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "firebase_admin",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "credentials",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "firebase_admin",
+        "description": "firebase_admin",
+        "isExtraImport": true,
+        "detail": "firebase_admin",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "csrf_exempt",
+        "importPath": "django.views.decorators.csrf",
+        "description": "django.views.decorators.csrf",
+        "isExtraImport": true,
+        "detail": "django.views.decorators.csrf",
+        "documentation": {}
+    },
+    {
+        "label": "api_view",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "permission_classes",
+        "importPath": "rest_framework.decorators",
+        "description": "rest_framework.decorators",
+        "isExtraImport": true,
+        "detail": "rest_framework.decorators",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticated",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "MultiPartParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "FormParser",
+        "importPath": "rest_framework.parsers",
+        "description": "rest_framework.parsers",
+        "isExtraImport": true,
+        "detail": "rest_framework.parsers",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "pdfplumber",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pdfplumber",
+        "description": "pdfplumber",
+        "detail": "pdfplumber",
+        "documentation": {}
+    },
+    {
+        "label": "tabula",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tabula",
+        "description": "tabula",
+        "detail": "tabula",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0001_initial",
+        "description": "backend.AgentBackend.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AgentProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),",
+        "detail": "backend.AgentBackend.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0002_agentprofile_is_verified",
+        "description": "backend.AgentBackend.migrations.0002_agentprofile_is_verified",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('AgentBackend', '0001_initial'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='agentprofile',\n            name='is_verified',\n            field=models.BooleanField(default=False),\n        ),",
+        "detail": "backend.AgentBackend.migrations.0002_agentprofile_is_verified",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0003_customuser_delete_agentprofile",
+        "description": "backend.AgentBackend.migrations.0003_customuser_delete_agentprofile",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('AgentBackend', '0002_agentprofile_is_verified'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='CustomUser',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "backend.AgentBackend.migrations.0003_customuser_delete_agentprofile",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0004_customuser_groups_customuser_is_superuser_and_more",
+        "description": "backend.AgentBackend.migrations.0004_customuser_groups_customuser_is_superuser_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('AgentBackend', '0003_customuser_delete_agentprofile'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='customuser',\n            name='groups',\n            field=models.ManyToManyField(blank=True, help_text='The groups this user belongs to. A user will get all permissions granted to each of their groups.', related_name='user_set', related_query_name='user', to='auth.group', verbose_name='groups'),",
+        "detail": "backend.AgentBackend.migrations.0004_customuser_groups_customuser_is_superuser_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0005_alter_customuser_id",
+        "description": "backend.AgentBackend.migrations.0005_alter_customuser_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('AgentBackend', '0004_customuser_groups_customuser_is_superuser_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='customuser',\n            name='id',\n            field=models.AutoField(primary_key=True, serialize=False),\n        ),",
+        "detail": "backend.AgentBackend.migrations.0005_alter_customuser_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.migrations.0006_user_guest_agent_delete_customuser",
+        "description": "backend.AgentBackend.migrations.0006_user_guest_agent_delete_customuser",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('AgentBackend', '0005_alter_customuser_id'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "backend.AgentBackend.migrations.0006_user_guest_agent_delete_customuser",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserAdmin",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.admin",
+        "description": "backend.AgentBackend.admin",
+        "peekOfCode": "class CustomUserAdmin(admin.ModelAdmin):\n    list_display = ('email', 'first_name', 'last_name', 'is_active', 'is_staff', 'is_agent', 'is_guest')\n    search_fields = ('email', 'first_name', 'last_name')\n    readonly_fields = ('date_joined',)\nclass AgentAdmin(admin.ModelAdmin):\n    list_display = ('user', )\n    search_fields = ('user__email', )\nclass GuestAdmin(admin.ModelAdmin):\n    list_display = ('user', 'phone_number', )\n    search_fields = ('user__email', 'phone_number')",
+        "detail": "backend.AgentBackend.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AgentAdmin",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.admin",
+        "description": "backend.AgentBackend.admin",
+        "peekOfCode": "class AgentAdmin(admin.ModelAdmin):\n    list_display = ('user', )\n    search_fields = ('user__email', )\nclass GuestAdmin(admin.ModelAdmin):\n    list_display = ('user', 'phone_number', )\n    search_fields = ('user__email', 'phone_number')\nadmin.site.register(User, CustomUserAdmin)\nadmin.site.register(Agent, AgentAdmin)\nadmin.site.register(Guest, GuestAdmin)",
+        "detail": "backend.AgentBackend.admin",
+        "documentation": {}
+    },
+    {
+        "label": "GuestAdmin",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.admin",
+        "description": "backend.AgentBackend.admin",
+        "peekOfCode": "class GuestAdmin(admin.ModelAdmin):\n    list_display = ('user', 'phone_number', )\n    search_fields = ('user__email', 'phone_number')\nadmin.site.register(User, CustomUserAdmin)\nadmin.site.register(Agent, AgentAdmin)\nadmin.site.register(Guest, GuestAdmin)",
+        "detail": "backend.AgentBackend.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AgentbackendConfig",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.apps",
+        "description": "backend.AgentBackend.apps",
+        "peekOfCode": "class AgentbackendConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'AgentBackend'",
+        "detail": "backend.AgentBackend.apps",
+        "documentation": {}
+    },
+    {
+        "label": "CustomUserManager",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.models",
+        "description": "backend.AgentBackend.models",
+        "peekOfCode": "class CustomUserManager(BaseUserManager):\n    def create_user(self, email, password=None, **extra_fields):\n        if not email:\n            raise ValueError('The Email field must be set')\n        email = self.normalize_email(email)\n        user = self.model(email=email, **extra_fields)\n        user.set_password(password)\n        user.save(using=self._db)\n        return user\n    def create_superuser(self, email, password=None, **extra_fields):",
+        "detail": "backend.AgentBackend.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.models",
+        "description": "backend.AgentBackend.models",
+        "peekOfCode": "class User(AbstractBaseUser, PermissionsMixin):\n    email = models.EmailField(unique=True, validators=[EmailValidator()])\n    first_name = models.CharField(max_length=30, blank=True)\n    last_name = models.CharField(max_length=30, blank=True)\n    is_superuser = models.BooleanField(default=False)\n    is_active = models.BooleanField(default=True)\n    is_staff = models.BooleanField(default=False)\n    is_agent = models.BooleanField(default=False)  # Agent flag\n    is_guest = models.BooleanField(default=False)  # Guest flag\n    date_joined = models.DateTimeField(default=timezone.now)",
+        "detail": "backend.AgentBackend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Agent",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.models",
+        "description": "backend.AgentBackend.models",
+        "peekOfCode": "class Agent(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE, limit_choices_to={'is_agent': True})\n    #business_name = models.CharField(max_length=100)\n    #business_registration_number = models.CharField(max_length=50)\n    #proof_of_ownership = models.FileField(upload_to='proof_of_ownership/', blank=True, null=True)\n    #additional_documents = models.FileField(upload_to='additional_documents/', blank=True, null=True)\n    def __str__(self):\n        return self.business_name\nclass Guest(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE, limit_choices_to={'is_guest': True})",
+        "detail": "backend.AgentBackend.models",
+        "documentation": {}
+    },
+    {
+        "label": "Guest",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.models",
+        "description": "backend.AgentBackend.models",
+        "peekOfCode": "class Guest(models.Model):\n    user = models.OneToOneField(User, on_delete=models.CASCADE, limit_choices_to={'is_guest': True})\n    phone_number = models.CharField(max_length=15, blank=True)\n    def __str__(self):\n        return f'{self.user.email} - {self.phone_number}'",
+        "detail": "backend.AgentBackend.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegistrationSerializer",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.serializers",
+        "description": "backend.AgentBackend.serializers",
+        "peekOfCode": "class UserRegistrationSerializer(serializers.ModelSerializer):\n    password = serializers.CharField(write_only=True)\n    password_confirm = serializers.CharField(write_only=True)\n    class Meta:\n        model = get_user_model()\n        fields = ['id', 'email', 'password', 'password_confirm']\n    def validate(self, attrs):\n        password = attrs.get('password')\n        password_confirm = attrs.get('password_confirm')\n        if password != password_confirm:",
+        "detail": "backend.AgentBackend.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "CustomTokenObtainPairSerializer",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.serializers",
+        "description": "backend.AgentBackend.serializers",
+        "peekOfCode": "class CustomTokenObtainPairSerializer(TokenObtainPairSerializer):\n    @classmethod\n    def get_token(cls, user):\n        token = super().get_token(user)\n        token['email'] = user.email\n        return token",
+        "detail": "backend.AgentBackend.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.AgentBackend.urls",
+        "description": "backend.AgentBackend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('register/', RegisterUserView.as_view(), name='register_user'),\n    path('login/', CustomTokenObtainPairView.as_view(), name='login_user'),\n    path('users/', UserListView.as_view(), name='users_list'),\n]",
+        "detail": "backend.AgentBackend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "send_verification_email",
+        "kind": 2,
+        "importPath": "backend.AgentBackend.utils",
+        "description": "backend.AgentBackend.utils",
+        "peekOfCode": "def send_verification_email(user_email, verification_link):\n    subject = 'Verify Your Email Address'\n    message = f'Please verify your email address by clicking the following link: {verification_link}'\n    send_mail(subject, message, settings.EMAIL_HOST_USER, [user_email])\ndef send_profile_update_notification(user_email):\n    subject = 'Profile Update Notification'\n    message = 'Your profile has been successfully updated.'\n    send_mail(subject, message, settings.EMAIL_HOST_USER, [user_email])",
+        "detail": "backend.AgentBackend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "send_profile_update_notification",
+        "kind": 2,
+        "importPath": "backend.AgentBackend.utils",
+        "description": "backend.AgentBackend.utils",
+        "peekOfCode": "def send_profile_update_notification(user_email):\n    subject = 'Profile Update Notification'\n    message = 'Your profile has been successfully updated.'\n    send_mail(subject, message, settings.EMAIL_HOST_USER, [user_email])",
+        "detail": "backend.AgentBackend.utils",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUserView",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.views",
+        "description": "backend.AgentBackend.views",
+        "peekOfCode": "class RegisterUserView(generics.CreateAPIView):\n    serializer_class = UserRegistrationSerializer\nclass CustomTokenObtainPairView(generics.GenericAPIView):\n    serializer_class = CustomTokenObtainPairSerializer\n    def post(self, request, *args, **kwargs):\n        email = request.data.get('email')\n        password = request.data.get('password')\n        user = authenticate(email=email, password=password)\n        if user is not None:\n            refresh = RefreshToken.for_user(user)",
+        "detail": "backend.AgentBackend.views",
+        "documentation": {}
+    },
+    {
+        "label": "CustomTokenObtainPairView",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.views",
+        "description": "backend.AgentBackend.views",
+        "peekOfCode": "class CustomTokenObtainPairView(generics.GenericAPIView):\n    serializer_class = CustomTokenObtainPairSerializer\n    def post(self, request, *args, **kwargs):\n        email = request.data.get('email')\n        password = request.data.get('password')\n        user = authenticate(email=email, password=password)\n        if user is not None:\n            refresh = RefreshToken.for_user(user)\n            return Response({\n                'access': str(refresh.access_token),",
+        "detail": "backend.AgentBackend.views",
+        "documentation": {}
+    },
+    {
+        "label": "UserListView",
+        "kind": 6,
+        "importPath": "backend.AgentBackend.views",
+        "description": "backend.AgentBackend.views",
+        "peekOfCode": "class UserListView(generics.ListAPIView):\n    queryset = get_user_model().objects.all()\n    serializer_class = UserRegistrationSerializer",
+        "detail": "backend.AgentBackend.views",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.backend.asgi",
+        "description": "backend.backend.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "backend.backend.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "FIREBASE_SERVICE_ACCOUNT_KEY",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "FIREBASE_SERVICE_ACCOUNT_KEY = 'backend/hostelhq-a2bae-firebase-adminsdk-cvepd-5ec032eb74.json'\ncred = credentials.Certificate(FIREBASE_SERVICE_ACCOUNT_KEY)\nfirebase_admin.initialize_app(cred)\nBASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'django-insecure-*@2l+^3a&bq0@8!*z_@p4jo2xnrsmzh^(l=ubzim%f8)wc^f3l'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "cred",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "cred = credentials.Certificate(FIREBASE_SERVICE_ACCOUNT_KEY)\nfirebase_admin.initialize_app(cred)\nBASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'django-insecure-*@2l+^3a&bq0@8!*z_@p4jo2xnrsmzh^(l=ubzim%f8)wc^f3l'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\nSECRET_KEY = 'django-insecure-*@2l+^3a&bq0@8!*z_@p4jo2xnrsmzh^(l=ubzim%f8)wc^f3l'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-*@2l+^3a&bq0@8!*z_@p4jo2xnrsmzh^(l=ubzim%f8)wc^f3l'\nDEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Databased',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "ALLOWED_HOSTS = ['*']\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Databased',\n    'corsheaders',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'Databased',\n    'corsheaders',\n    'rest_framework_simplejwt',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_AUTHENTICATION_CLASSES': (\n        'rest_framework_simplejwt.authentication.JWTAuthentication',\n    ),\n}\nEMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'localhost'\nEMAIL_PORT = 1025\nEMAIL_USE_TLS = False\nEMAIL_USE_SSL = False",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_BACKEND",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'\nEMAIL_HOST = 'localhost'\nEMAIL_PORT = 1025\nEMAIL_USE_TLS = False\nEMAIL_USE_SSL = False\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_HOST = 'localhost'\nEMAIL_PORT = 1025\nEMAIL_USE_TLS = False\nEMAIL_USE_SSL = False\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_PORT",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_PORT = 1025\nEMAIL_USE_TLS = False\nEMAIL_USE_SSL = False\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_TLS",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_USE_TLS = False\nEMAIL_USE_SSL = False\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_USE_SSL",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_USE_SSL = False\nEMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,\n    'ALGORITHM': 'HS256',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_USER",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_HOST_USER = ''\nEMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "EMAIL_HOST_PASSWORD",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "EMAIL_HOST_PASSWORD = ''\nSIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,\n    'VERIFYING_KEY': None,",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SIMPLE_JWT",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "SIMPLE_JWT = {\n    'ACCESS_TOKEN_LIFETIME': timedelta(minutes=5),\n    'REFRESH_TOKEN_LIFETIME': timedelta(days=1),\n    'ROTATE_REFRESH_TOKENS': False,\n    'BLACKLIST_AFTER_ROTATION': True,\n    'UPDATE_LAST_LOGIN': False,\n    'ALGORITHM': 'HS256',\n    'SIGNING_KEY': SECRET_KEY,\n    'VERIFYING_KEY': None,\n    'AUTH_HEADER_TYPES': ('Bearer',),",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'corsheaders.middleware.CorsMiddleware',\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "ROOT_URLCONF = 'backend.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'backend.wsgi.application'\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nCORS_ALLOW_ALL_ORIGINS = True\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\nCORS_ALLOW_ALL_ORIGINS = True\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "CORS_ALLOW_ALL_ORIGINS",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "CORS_ALLOW_ALL_ORIGINS = True\nAUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\nSTATIC_URL = 'static/'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "USE_TZ = True\nSTATIC_URL = 'static/'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\nMEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_URL",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "MEDIA_URL = '/media/'\nMEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MEDIA_ROOT",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "MEDIA_ROOT = os.path.join(BASE_DIR, 'media')\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "backend.backend.settings",
+        "description": "backend.backend.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "backend.backend.settings",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.backend.urls",
+        "description": "backend.backend.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('api/', include('Databased.urls')),\n]\nif settings.DEBUG:\n    from django.conf.urls.static import static\n    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)",
+        "detail": "backend.backend.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "backend.backend.wsgi",
+        "description": "backend.backend.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "backend.backend.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0001_initial",
+        "description": "backend.Databased.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='User',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('password', models.CharField(max_length=128, verbose_name='password')),",
+        "detail": "backend.Databased.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0002_user_groups_user_is_superuser_user_user_permissions",
+        "description": "backend.Databased.migrations.0002_user_groups_user_is_superuser_user_user_permissions",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0001_initial'),\n        ('auth', '0012_alter_user_first_name_max_length'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='user',\n            name='groups',\n            field=models.ManyToManyField(blank=True, help_text='The groups this user belongs to. A user will get all permissions granted to each of their groups.', related_name='user_set', related_query_name='user', to='auth.group', verbose_name='groups'),",
+        "detail": "backend.Databased.migrations.0002_user_groups_user_is_superuser_user_user_permissions",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0003_remove_guest_phone_number_alter_agent_user_and_more",
+        "description": "backend.Databased.migrations.0003_remove_guest_phone_number_alter_agent_user_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0002_user_groups_user_is_superuser_user_user_permissions'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='guest',\n            name='phone_number',\n        ),\n        migrations.AlterField(",
+        "detail": "backend.Databased.migrations.0003_remove_guest_phone_number_alter_agent_user_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0004_alter_user_id",
+        "description": "backend.Databased.migrations.0004_alter_user_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0003_remove_guest_phone_number_alter_agent_user_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='id',\n            field=models.UUIDField(default=uuid.uuid4, editable=False, primary_key=True, serialize=False),\n        ),",
+        "detail": "backend.Databased.migrations.0004_alter_user_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0005_alter_user_id",
+        "description": "backend.Databased.migrations.0005_alter_user_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0004_alter_user_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='id',\n            field=models.UUIDField(default=uuid.UUID('e4b50d78-f936-4383-ae01-4f1d69d9447d'), editable=False, primary_key=True, serialize=False),\n        ),",
+        "detail": "backend.Databased.migrations.0005_alter_user_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0006_alter_user_id",
+        "description": "backend.Databased.migrations.0006_alter_user_id",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0005_alter_user_id'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='user',\n            name='id',\n            field=models.UUIDField(default=uuid.UUID('6e1db8be-4424-457c-b62c-4807f98e9cf1'), editable=False, primary_key=True, serialize=False),\n        ),",
+        "detail": "backend.Databased.migrations.0006_alter_user_id",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0007_userprofile_remove_guest_user_remove_user_groups_and_more",
+        "description": "backend.Databased.migrations.0007_userprofile_remove_guest_user_remove_user_groups_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0006_alter_user_id'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='UserProfile',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('uid', models.CharField(max_length=255, unique=True)),",
+        "detail": "backend.Databased.migrations.0007_userprofile_remove_guest_user_remove_user_groups_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0008_faq",
+        "description": "backend.Databased.migrations.0008_faq",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0007_userprofile_remove_guest_user_remove_user_groups_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='FAQ',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('question', models.CharField(max_length=255)),",
+        "detail": "backend.Databased.migrations.0008_faq",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0009_faq_last_updated_alter_faq_question_feedback",
+        "description": "backend.Databased.migrations.0009_faq_last_updated_alter_faq_question_feedback",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0008_faq'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='faq',\n            name='last_updated',\n            field=models.DateTimeField(auto_now=True),",
+        "detail": "backend.Databased.migrations.0009_faq_last_updated_alter_faq_question_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0010_remove_faq_last_updated_delete_feedback",
+        "description": "backend.Databased.migrations.0010_remove_faq_last_updated_delete_feedback",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0009_faq_last_updated_alter_faq_question_feedback'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='faq',\n            name='last_updated',\n        ),\n        migrations.DeleteModel(",
+        "detail": "backend.Databased.migrations.0010_remove_faq_last_updated_delete_feedback",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0011_delete_faq",
+        "description": "backend.Databased.migrations.0011_delete_faq",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0010_remove_faq_last_updated_delete_feedback'),\n    ]\n    operations = [\n        migrations.DeleteModel(\n            name='FAQ',\n        ),\n    ]",
+        "detail": "backend.Databased.migrations.0011_delete_faq",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0012_agentlisting_images",
+        "description": "backend.Databased.migrations.0012_agentlisting_images",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0011_delete_faq'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='AgentListing',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('hostelName', models.CharField(max_length=200)),",
+        "detail": "backend.Databased.migrations.0012_agentlisting_images",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0013_agentlisting_amenities_agentlisting_availability_and_more",
+        "description": "backend.Databased.migrations.0013_agentlisting_amenities_agentlisting_availability_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0012_agentlisting_images'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='agentlisting',\n            name='amenities',\n            field=models.CharField(choices=[('wifi', 'WiFi'), ('parking', 'Parking'), ('security', 'Security'), ('cctv', 'CCTV'), ('laundry', 'Laundry'), ('kitchen', 'Kitchen'), ('gym', 'Gym'), ('pool', 'Pool'), ('ac', 'AC'), ('tv', 'TV'), ('furniture', 'Furniture')], default='wifi', max_length=50),\n        ),",
+        "detail": "backend.Databased.migrations.0013_agentlisting_amenities_agentlisting_availability_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0014_alter_agentlisting_address_and_more",
+        "description": "backend.Databased.migrations.0014_alter_agentlisting_address_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0013_agentlisting_amenities_agentlisting_availability_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='agentlisting',\n            name='address',\n            field=models.CharField(blank=True, max_length=200, null=True),\n        ),",
+        "detail": "backend.Databased.migrations.0014_alter_agentlisting_address_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0015_alter_agentlisting_amenities_and_more",
+        "description": "backend.Databased.migrations.0015_alter_agentlisting_amenities_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0014_alter_agentlisting_address_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='agentlisting',\n            name='amenities',\n            field=models.CharField(blank=True, max_length=200, null=True),\n        ),",
+        "detail": "backend.Databased.migrations.0015_alter_agentlisting_amenities_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0016_alter_userprofile_name_alter_userprofile_phone_and_more",
+        "description": "backend.Databased.migrations.0016_alter_userprofile_name_alter_userprofile_phone_and_more",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0015_alter_agentlisting_amenities_and_more'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='userprofile',\n            name='name',\n            field=models.CharField(blank=True, max_length=255, null=True),\n        ),",
+        "detail": "backend.Databased.migrations.0016_alter_userprofile_name_alter_userprofile_phone_and_more",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0017_image_agentlisting_images_delete_agentlistingimage",
+        "description": "backend.Databased.migrations.0017_image_agentlisting_images_delete_agentlistingimage",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0016_alter_userprofile_name_alter_userprofile_phone_and_more'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Image',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('image', models.ImageField(upload_to='images/')),",
+        "detail": "backend.Databased.migrations.0017_image_agentlisting_images_delete_agentlistingimage",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0018_agentlisting_uid",
+        "description": "backend.Databased.migrations.0018_agentlisting_uid",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0017_image_agentlisting_images_delete_agentlistingimage'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='agentlisting',\n            name='uid',\n            field=models.CharField(blank=True, max_length=500, null=True),\n        ),",
+        "detail": "backend.Databased.migrations.0018_agentlisting_uid",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0019_tourrequests",
+        "description": "backend.Databased.migrations.0019_tourrequests",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0018_agentlisting_uid'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='TourRequests',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('requested_date', models.DateField()),",
+        "detail": "backend.Databased.migrations.0019_tourrequests",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0020_remove_tourrequests_agent",
+        "description": "backend.Databased.migrations.0020_remove_tourrequests_agent",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0019_tourrequests'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='tourrequests',\n            name='agent',\n        ),\n    ]",
+        "detail": "backend.Databased.migrations.0020_remove_tourrequests_agent",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0021_tourrequests_agent_alter_tourrequests_requested_date",
+        "description": "backend.Databased.migrations.0021_tourrequests_agent_alter_tourrequests_requested_date",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0020_remove_tourrequests_agent'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='tourrequests',\n            name='agent',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, related_name='tour_requests', to='Databased.userprofile'),\n            preserve_default=False,",
+        "detail": "backend.Databased.migrations.0021_tourrequests_agent_alter_tourrequests_requested_date",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "backend.Databased.migrations.0022_remove_tourrequests_agent",
+        "description": "backend.Databased.migrations.0022_remove_tourrequests_agent",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('Databased', '0021_tourrequests_agent_alter_tourrequests_requested_date'),\n    ]\n    operations = [\n        migrations.RemoveField(\n            model_name='tourrequests',\n            name='agent',\n        ),\n    ]",
+        "detail": "backend.Databased.migrations.0022_remove_tourrequests_agent",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileAdmin",
+        "kind": 6,
+        "importPath": "backend.Databased.admin",
+        "description": "backend.Databased.admin",
+        "peekOfCode": "class UserProfileAdmin(admin.ModelAdmin):\n    list_display = ('name', 'email', 'phone', 'created_at')\n    search_fields = ('name', 'email' )\nclass AgentListingAdmin(admin.ModelAdmin):\n    list_display = ('agent', 'address', 'location', 'amenities', 'roomType', 'availability', 'roomsAvailable', 'price', 'created_at')\n    search_fields = ('hostelName', 'address', 'location')\nclass ImageAdmin(admin.ModelAdmin):\n    list_display = ('image', 'uploaded_at')\n    search_fields = ('image',)\nclass TourRequestsAdmin(admin.ModelAdmin):",
+        "detail": "backend.Databased.admin",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListingAdmin",
+        "kind": 6,
+        "importPath": "backend.Databased.admin",
+        "description": "backend.Databased.admin",
+        "peekOfCode": "class AgentListingAdmin(admin.ModelAdmin):\n    list_display = ('agent', 'address', 'location', 'amenities', 'roomType', 'availability', 'roomsAvailable', 'price', 'created_at')\n    search_fields = ('hostelName', 'address', 'location')\nclass ImageAdmin(admin.ModelAdmin):\n    list_display = ('image', 'uploaded_at')\n    search_fields = ('image',)\nclass TourRequestsAdmin(admin.ModelAdmin):\n    list_display = ('client', 'hostel', 'requested_date')\n    search_fields = ('requested_date',)\nadmin.site.register(TourRequests, TourRequestsAdmin)",
+        "detail": "backend.Databased.admin",
+        "documentation": {}
+    },
+    {
+        "label": "ImageAdmin",
+        "kind": 6,
+        "importPath": "backend.Databased.admin",
+        "description": "backend.Databased.admin",
+        "peekOfCode": "class ImageAdmin(admin.ModelAdmin):\n    list_display = ('image', 'uploaded_at')\n    search_fields = ('image',)\nclass TourRequestsAdmin(admin.ModelAdmin):\n    list_display = ('client', 'hostel', 'requested_date')\n    search_fields = ('requested_date',)\nadmin.site.register(TourRequests, TourRequestsAdmin)\nadmin.site.register(Image, ImageAdmin)\nadmin.site.register(AgentListing, AgentListingAdmin)\nadmin.site.register(UserProfile, UserProfileAdmin)",
+        "detail": "backend.Databased.admin",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequestsAdmin",
+        "kind": 6,
+        "importPath": "backend.Databased.admin",
+        "description": "backend.Databased.admin",
+        "peekOfCode": "class TourRequestsAdmin(admin.ModelAdmin):\n    list_display = ('client', 'hostel', 'requested_date')\n    search_fields = ('requested_date',)\nadmin.site.register(TourRequests, TourRequestsAdmin)\nadmin.site.register(Image, ImageAdmin)\nadmin.site.register(AgentListing, AgentListingAdmin)\nadmin.site.register(UserProfile, UserProfileAdmin)",
+        "detail": "backend.Databased.admin",
+        "documentation": {}
+    },
+    {
+        "label": "DatabasedConfig",
+        "kind": 6,
+        "importPath": "backend.Databased.apps",
+        "description": "backend.Databased.apps",
+        "peekOfCode": "class DatabasedConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'Databased'",
+        "detail": "backend.Databased.apps",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfile",
+        "kind": 6,
+        "importPath": "backend.Databased.models",
+        "description": "backend.Databased.models",
+        "peekOfCode": "class UserProfile(models.Model):\n    # Assuming this is your user profile model\n    uid = models.CharField(max_length=255, unique=True)\n    email = models.EmailField()\n    name = models.CharField(max_length=255, blank=True, null=True)\n    phone = models.CharField(max_length=20, blank=True, null=True)\n    created_at = models.DateTimeField(auto_now_add=True)  # Record creation time\n    def __str__(self):\n        return self.name or self.email\nclass AgentListing(models.Model):",
+        "detail": "backend.Databased.models",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListing",
+        "kind": 6,
+        "importPath": "backend.Databased.models",
+        "description": "backend.Databased.models",
+        "peekOfCode": "class AgentListing(models.Model):\n    agent = models.ForeignKey(UserProfile, on_delete=models.CASCADE)  # Link to UserProfile\n    uid = models.CharField(max_length=500, blank=True, null=True)\n    hostelName = models.CharField(max_length=200, blank=True, null=True)  # Name of the hostel\n    address = models.CharField(max_length=200, blank=True, null=True)  # Address of the hostel\n    location = models.CharField(max_length=200, blank=True, null=True)  # Location of the hostel\n    amenities = models.CharField(max_length=200, blank=True, null=True)  # Amenities offered\n    roomType = models.CharField(max_length=200, blank=True, null=True)  # Type of room\n    availability = models.CharField(max_length=20, blank=True, null=True)  # Availability status\n    roomsAvailable = models.IntegerField(blank=True, null=True)  # Number of rooms available",
+        "detail": "backend.Databased.models",
+        "documentation": {}
+    },
+    {
+        "label": "Image",
+        "kind": 6,
+        "importPath": "backend.Databased.models",
+        "description": "backend.Databased.models",
+        "peekOfCode": "class Image(models.Model):\n    image = models.ImageField(upload_to='images/')\n    uploaded_at = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return f\"{self.image}\"\nclass TourRequests(models.Model):\n    STATUS_CHOICES = [\n        ('PENDING', 'Pending'),\n        ('ACCEPTED', 'Accepted'),\n        ('DECLINED', 'Declined'),",
+        "detail": "backend.Databased.models",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequests",
+        "kind": 6,
+        "importPath": "backend.Databased.models",
+        "description": "backend.Databased.models",
+        "peekOfCode": "class TourRequests(models.Model):\n    STATUS_CHOICES = [\n        ('PENDING', 'Pending'),\n        ('ACCEPTED', 'Accepted'),\n        ('DECLINED', 'Declined'),\n    ]\n    client = models.ForeignKey(UserProfile, on_delete=models.CASCADE, related_name='client_requests')\n    hostel = models.ForeignKey(AgentListing, on_delete=models.CASCADE)\n    requested_date = models.DateField(default=None, blank=True, null=True)\n    status = models.CharField(max_length=10, choices=STATUS_CHOICES, default='PENDING')",
+        "detail": "backend.Databased.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserProfileSerializer",
+        "kind": 6,
+        "importPath": "backend.Databased.serializers",
+        "description": "backend.Databased.serializers",
+        "peekOfCode": "class UserProfileSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = UserProfile\n        fields = \"__all__\"\nclass ImageSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Image\n        fields = ['id', 'image', 'uploaded_at']\nclass AgentListingSerializer(serializers.ModelSerializer):\n    images = ImageSerializer(many=True, required=False)",
+        "detail": "backend.Databased.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ImageSerializer",
+        "kind": 6,
+        "importPath": "backend.Databased.serializers",
+        "description": "backend.Databased.serializers",
+        "peekOfCode": "class ImageSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = Image\n        fields = ['id', 'image', 'uploaded_at']\nclass AgentListingSerializer(serializers.ModelSerializer):\n    images = ImageSerializer(many=True, required=False)\n    class Meta:\n        model = AgentListing\n        fields = \"__all__\"\n        extra_kwargs = {",
+        "detail": "backend.Databased.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListingSerializer",
+        "kind": 6,
+        "importPath": "backend.Databased.serializers",
+        "description": "backend.Databased.serializers",
+        "peekOfCode": "class AgentListingSerializer(serializers.ModelSerializer):\n    images = ImageSerializer(many=True, required=False)\n    class Meta:\n        model = AgentListing\n        fields = \"__all__\"\n        extra_kwargs = {\n            'hostelName': {'required': False, 'allow_blank': True},\n            'address': {'required': False, 'allow_blank': True},\n            'location': {'required': False, 'allow_blank': True},\n            'amenities': {'required': False, 'allow_blank': True},",
+        "detail": "backend.Databased.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequestsSerializer",
+        "kind": 6,
+        "importPath": "backend.Databased.serializers",
+        "description": "backend.Databased.serializers",
+        "peekOfCode": "class TourRequestsSerializer(serializers.ModelSerializer):\n    class Meta:\n        model = TourRequests\n        fields = ['id', 'requested_date', 'hostel', 'client']",
+        "detail": "backend.Databased.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "backend.Databased.urls",
+        "description": "backend.Databased.urls",
+        "peekOfCode": "urlpatterns = [\n    # User profile\n    path('authenticate/', authenticate_user, name='authenticate_user'),\n    path('create-or-update-profile/', create_or_update_profile, name='create_or_update_profile'),\n    # Agent Listings\n    path('agent-listings/', AgentListingListView.as_view(), name='agent-listing-list'),  # GET for listing\n    path('agent-listings/create/', AgentListingCreateView.as_view(), name='agent-listing-create'),  # POST for creation\n    path('agent-listings/<int:pk>/', AgentListingDetailView.as_view(), name='agent-listing-detail'),  # GET, PUT, DELETE for detail\n    # Image uploads\n    path('upload-images/', ImageUploadView.as_view(), name='upload-images'),",
+        "detail": "backend.Databased.urls",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListingCreateView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class AgentListingCreateView(generics.CreateAPIView):\n    serializer_class = AgentListingSerializer\n    parser_classes = (MultiPartParser, FormParser)\n    #permission_classes = [IsAuthenticated]\n    def perform_create(self, serializer):\n        token = self.request.data.get('token')\n        if not token:\n            raise serializers.ValidationError({'error': 'Token is required'})\n        try:\n            decoded_token = auth.verify_id_token(token)",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListingListView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class AgentListingListView(generics.ListAPIView):\n    queryset = AgentListing.objects.all()\n    serializer_class = AgentListingSerializer\nclass AgentListingDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = AgentListing.objects.all()\n    serializer_class = AgentListingSerializer\n    #permission_classes = [IsAuthenticated]\nclass ImageUploadView(generics.CreateAPIView):\n    serializer_class = ImageSerializer\n    parser_classes = (MultiPartParser, FormParser)",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "AgentListingDetailView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class AgentListingDetailView(generics.RetrieveUpdateDestroyAPIView):\n    queryset = AgentListing.objects.all()\n    serializer_class = AgentListingSerializer\n    #permission_classes = [IsAuthenticated]\nclass ImageUploadView(generics.CreateAPIView):\n    serializer_class = ImageSerializer\n    parser_classes = (MultiPartParser, FormParser)\n    # No permission_classes needed\n    def post(self, request, *args, **kwargs):\n        images = request.FILES.getlist('images')",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "ImageUploadView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class ImageUploadView(generics.CreateAPIView):\n    serializer_class = ImageSerializer\n    parser_classes = (MultiPartParser, FormParser)\n    # No permission_classes needed\n    def post(self, request, *args, **kwargs):\n        images = request.FILES.getlist('images')\n        if not images:\n            return Response({'error': 'No images provided'}, status=status.HTTP_400_BAD_REQUEST)\n        # Process each image\n        image_objects = []",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequestCreateView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class TourRequestCreateView(generics.CreateAPIView):\n    serializer_class = TourRequestsSerializer\n    #permission_classes = [IsAuthenticated]  # Ensure user is authenticated\n    def post(self, request, *args, **kwargs):\n        try:\n            # Get the token from request data\n            token = request.data.get('token')\n            if not token:\n                return Response({'error': 'Token is required'}, status=status.HTTP_400_BAD_REQUEST)\n            # Verify the token",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequestListView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class TourRequestListView(generics.ListAPIView):\n    serializer_class = TourRequestsSerializer\n    #permission_classes = [IsAuthenticated]\n    def get_queryset(self):\n        user = self.request.user\n        return TourRequests.objects.filter(client=user)\nclass TourRequestUpdateView(generics.UpdateAPIView):\n    serializer_class = TourRequestsSerializer\n    #permission_classes = [IsAuthenticated]\n    def get_queryset(self):",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "TourRequestUpdateView",
+        "kind": 6,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "class TourRequestUpdateView(generics.UpdateAPIView):\n    serializer_class = TourRequestsSerializer\n    #permission_classes = [IsAuthenticated]\n    def get_queryset(self):\n        user = self.request.user\n        return TourRequests.objects.filter(client=user)",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "create_or_update_profile",
+        "kind": 2,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "def create_or_update_profile(request):\n    try:\n        data = request.data\n        token = data.get('token')\n        if not token:\n            return Response({'error': 'Token is required'}, status=status.HTTP_400_BAD_REQUEST)\n        # Verify the token\n        decoded_token = auth.verify_id_token(token)\n        uid = decoded_token['uid']\n        email = decoded_token.get('email', '')",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "authenticate_user",
+        "kind": 2,
+        "importPath": "backend.Databased.views",
+        "description": "backend.Databased.views",
+        "peekOfCode": "def authenticate_user(request):\n    try:\n        data = request.data\n        token = data.get('token')\n        if not token:\n            return Response({'error': 'Token is required'}, status=status.HTTP_400_BAD_REQUEST)\n        # Verify the token\n        decoded_token = auth.verify_id_token(token)\n        uid = decoded_token['uid']\n        email = decoded_token.get('email', '')",
+        "detail": "backend.Databased.views",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "backend.manage",
+        "description": "backend.manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'backend.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "backend.manage",
+        "documentation": {}
+    },
+    {
+        "label": "pdf_text",
+        "kind": 5,
+        "importPath": "backend.pdfextract",
+        "description": "backend.pdfextract",
+        "peekOfCode": "pdf_text = \"\"\nwith pdfplumber.open('Mobile_Application_Architectures.pdf') as pdf:\n    for page in pdf.pages:\n        pdf_text += page.extract_text() or \"\"\n# Extract tables using tabula\ntables = tabula.read_pdf('Mobile_Application_Architectures.pdf', pages='all', multiple_tables=True)\n# Save extracted text to a CSV file\ntext_file_path = 'extracted_tessxt.csv'\nwith open(text_file_path, 'w', newline='', encoding='utf-8') as text_file:\n    text_file.write(pdf_text)",
+        "detail": "backend.pdfextract",
+        "documentation": {}
+    },
+    {
+        "label": "tables",
+        "kind": 5,
+        "importPath": "backend.pdfextract",
+        "description": "backend.pdfextract",
+        "peekOfCode": "tables = tabula.read_pdf('Mobile_Application_Architectures.pdf', pages='all', multiple_tables=True)\n# Save extracted text to a CSV file\ntext_file_path = 'extracted_tessxt.csv'\nwith open(text_file_path, 'w', newline='', encoding='utf-8') as text_file:\n    text_file.write(pdf_text)\n# Save tables to separate CSV files\nfor i, table in enumerate(tables):\n    table_file_path = f'table_{i}.csv'\n    table.to_csv(table_file_path, index=False)\nprint(f\"Text saved to {text_file_path}\")",
+        "detail": "backend.pdfextract",
+        "documentation": {}
+    },
+    {
+        "label": "text_file_path",
+        "kind": 5,
+        "importPath": "backend.pdfextract",
+        "description": "backend.pdfextract",
+        "peekOfCode": "text_file_path = 'extracted_tessxt.csv'\nwith open(text_file_path, 'w', newline='', encoding='utf-8') as text_file:\n    text_file.write(pdf_text)\n# Save tables to separate CSV files\nfor i, table in enumerate(tables):\n    table_file_path = f'table_{i}.csv'\n    table.to_csv(table_file_path, index=False)\nprint(f\"Text saved to {text_file_path}\")\nprint(f\"Tables saved to table_0.csv, table_1.csv, ...\")\n\"\"\"import pdfplumber",
+        "detail": "backend.pdfextract",
+        "documentation": {}
+    },
+    {
+        "label": "df_combined",
+        "kind": 5,
+        "importPath": "backend.pdfextract",
+        "description": "backend.pdfextract",
+        "peekOfCode": "df_combined = pd.DataFrame(rows)\ndf_combined.to_csv('output.csv', index=False, header=False)\n\"\"\"",
+        "detail": "backend.pdfextract",
+        "documentation": {}
+    }
+]

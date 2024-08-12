@@ -5,7 +5,8 @@ from .views import (
     AgentListingDetailView,
     authenticate_user,
     create_or_update_profile,
-    ImageUploadView
+    ImageUploadView,
+    TourRequestCreateView, TourRequestListView, TourRequestUpdateView
 )
 
 urlpatterns = [
@@ -20,4 +21,10 @@ urlpatterns = [
 
     # Image uploads
     path('upload-images/', ImageUploadView.as_view(), name='upload-images'),
+
+    # Tour Requests
+    path('tour-requests/', TourRequestCreateView.as_view(), name='create-tour-request'),
+    path('tour-requests/list/', TourRequestListView.as_view(), name='list-tour-requests'),
+    path('tour-requests/list/<int:pk>/', TourRequestUpdateView.as_view(), name='list-tour-requests'),
+
 ]

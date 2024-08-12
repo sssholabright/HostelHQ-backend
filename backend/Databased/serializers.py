@@ -1,5 +1,5 @@
 from rest_framework import serializers
-from .models import AgentListing, UserProfile, Image
+from .models import AgentListing, UserProfile, Image, TourRequests
 
 class UserProfileSerializer(serializers.ModelSerializer):
     class Meta:
@@ -38,3 +38,8 @@ class AgentListingSerializer(serializers.ModelSerializer):
             agent_listing.images.add(image)
         
         return agent_listing
+
+class TourRequestsSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = TourRequests
+        fields = ['id', 'requested_date', 'hostel', 'client']

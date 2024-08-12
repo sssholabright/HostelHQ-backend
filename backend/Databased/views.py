@@ -6,8 +6,8 @@ from firebase_admin import auth
 from rest_framework import generics
 from rest_framework.permissions import IsAuthenticated
 from rest_framework.parsers import MultiPartParser, FormParser
-from .models import UserProfile, AgentListing, Image
-from .serializers import UserProfileSerializer, AgentListingSerializer, ImageSerializer
+from .models import UserProfile, AgentListing, Image, TourRequests
+from .serializers import UserProfileSerializer, AgentListingSerializer, ImageSerializer, TourRequestsSerializer
 
 @api_view(['POST'])
 @csrf_exempt
@@ -117,3 +117,57 @@ class ImageUploadView(generics.CreateAPIView):
 
         serializer = ImageSerializer(image_objects, many=True)
         return Response({'message': 'Images uploaded successfully', 'images': serializer.data}, status=status.HTTP_201_CREATED)
+    
+
+from rest_framework import status, generics
+from rest_framework.permissions import IsAuthenticated
+from rest_framework.response import Response
+from .models import TourRequests, UserProfile
+from .serializers import TourRequestsSerializer
+import firebase_admin
+from firebase_admin import auth
+
+class TourRequestCreateView(generics.CreateAPIView):
+    serializer_class = TourRequestsSerializer
+    #permission_classes = [IsAuthenticated]  # Ensure user is authenticated
+
+    def post(self, request, *args, **kwargs):
+        try:
+            # Get the token from request data
+            token = request.data.get('token')
+            if not token:
+                return Response({'error': 'Token is required'}, status=status.HTTP_400_BAD_REQUEST)
+
+            # Verify the token
+            decoded_token = auth.verify_id_token(token)
+            uid = decoded_token['uid']
+
+            # Get or create UserProfile instance
+            user_profile, created = UserProfile.objects.get_or_create(uid=uid)
+
+            # Add the user profile to the request data
+            request.data._mutable = True
+            request.data['client'] = user_profile.id
+            request.data._mutable = False
+
+            return super().post(request, *args, **kwargs)
+
+        except Exception as e:
+            return Response({'error': str(e)}, status=status.HTTP_400_BAD_REQUEST)
+
+        
+
+class TourRequestListView(generics.ListAPIView):
+    serializer_class = TourRequestsSerializer
+    #permission_classes = [IsAuthenticated]
+
+    def get_queryset(self):
+        user = self.request.user
+        return TourRequests.objects.filter(client=user)
+class TourRequestUpdateView(generics.UpdateAPIView):
+    serializer_class = TourRequestsSerializer
+    #permission_classes = [IsAuthenticated]
+
+    def get_queryset(self):
+        user = self.request.user
+        return TourRequests.objects.filter(client=user)
