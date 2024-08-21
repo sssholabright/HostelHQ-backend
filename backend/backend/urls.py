@@ -4,7 +4,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('api/', include('Databased.urls')),
+    path('api/', include('hostelhq.urls')),
 ]
 
 if settings.DEBUG:
